@@ -3,10 +3,10 @@ Student of Shala2020 - A course on Data Science, Machine Learning, and Deep Lear
 
 I added my work of course here
 
-Organized work (folder)
+Organized work
 <ul>
-  <li>Assignment                       --   Added assignments of Data Science and ML</li>
-  <li>Coding-add_on_lecture(Practiced) --   What I Studied, Practiced and Implimented from lecture</li>
+  <li><i class="fas fa-folder"></i> Assignment                       --   Completed assignments of Data Science and ML</li>
+  <li><i class="fas fa-folder"></i> Coding-add_on_lecture(Practiced) --   What I Studied, Practiced and Implemented from lecture</li>
 </ul> 
 
 Visit Website:- https://shala2020.github.io/
