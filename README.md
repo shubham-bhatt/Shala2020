@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <!-- -->
- 
  <style>
- icon-folder-open
- {
-  content: "\e930";
- }
- </style>
+  fa-folder:before
+  {
+  content:"\f07b"
+  }
+  fa-folder-open:before
+  {
+  content:"\f07c"
+  }
+  </style>
 </head>
 <body>
   
@@ -27,7 +30,7 @@ Organized work<br/>
 <path d="M416 480l96-256h-416l-96 256zM64 192l-64 288v-416h144l64 64h208v64z"></path>
 </svg>
 
-<span class="icon-folder-open">&#xe930;</span>Coding-add_on_lecture(Practiced) --   What I Studied, Practiced and Implemented from lecture<br/>
+Coding-add_on_lecture(Practiced) --   What I Studied, Practiced and Implemented from lecture<br/>
 
 
 Visit Website:- https://shala2020.github.io/
