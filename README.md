@@ -11,8 +11,8 @@ Student of Shala2020 - A course on Data Science, Machine Learning, and Deep Lear
 
 I added my work of course here
 
-Organized work
-<i style="font-size:24px" class="fa">&#xf07b;</i> Assignment                       --   Completed assignments of Data Science and ML<br/>
+Organized work<br/>
+<%= octicon "file-submodule" %> Assignment                       --   Completed assignments of Data Science and ML<br/>
  <i class="fa fa-folder"></i> Coding-add_on_lecture(Practiced) --   What I Studied, Practiced and Implemented from lecture<br/>
 
 
