@@ -1,8 +1,7 @@
 # Shala2020
 Student of Shala2020 - A course on Data Science, Machine Learning, and Deep Learning (Summer 2020)
 
-I added my work :memo:
-:pencil: of course here
+I added my work :memo:of course here
 
 Organized work<br/>
 :file_folder: Assignment                       --   Completed assignments of Data Science and ML<br/>
