@@ -1,12 +1,8 @@
-# Shala2020
-Student of Shala2020 - A course on Data Science, Machine Learning, and Deep Learning (Summer 2020)
+Learn in Shala2020 - course on Data Science, Machine Learning (Summer 2020)
 
-I added my work :memo:of course here
+I added my practice work :memo: here using python
 
 Organized work<br/>
-:file_folder: Assignment                       --   Completed assignments of Data Science and ML<br/>
-:open_file_folder: Coding-add_on_lecture(Practiced) --   What I Studied, Practiced and Implemented from lecture<br/>
-
-
-Visit Website:- https://shala2020.github.io/
+:file_folder: Assignment                       --   Did assignments of Data Science and ML<br/>
+:open_file_folder: Coding-add_on_lecture(Practiced) --   Practiced and Implemented from lecture<br/>
 
